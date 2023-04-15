@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav{
+    background-image: url(../src/massms/main-background.svg);
+}
+
+.body{
+    background-image: url(../src/massms/main-background.svg);
+    ;
+}
+
+.bg{
+    background-image: url(../src/massms/blue-circle.svg);
+}
+
+.font{
+    font-size: x-large;
+    padding-top: 10%;
+}
+
+
